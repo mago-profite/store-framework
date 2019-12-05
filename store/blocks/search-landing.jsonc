@@ -16,7 +16,8 @@
     },
     "image#landingbanner": {
         "props": {
-            "src": "http://lorempixel.com/1000/300/abstract"
+            "src": "http://lorempixel.com/1000/300/abstract",
+            "minWidth": "100%"
         }
     }
 }
